@@ -122,6 +122,11 @@ body{
   transform: rotate(90deg);
   transition-delay: 0.4s;
 }
+@media (max-width: 768px) {
+  .heart {
+    top: 58%;
+  }
+}
 
 
 
